@@ -216,7 +216,11 @@ p {
 
     /* nav */
 
-   .nav__toggle {
+    .nav__logo {
+        transform: scale(.8);
+    }
+
+    .nav__toggle {
         display: block;
         background-image: url("/assets/images/icon-menu.svg");
         height: 17px;
