@@ -227,6 +227,7 @@ p {
 
     .nav {
         grid-area: nav;
+        height: 1.7rem;
     }
 
     .nav__logo--mobile {
@@ -320,7 +321,7 @@ p {
     }
 
     /* related-post */
-    
+
     .related-post {
         grid-area: related-post;
         display: flex;
