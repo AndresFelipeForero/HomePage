@@ -52,6 +52,11 @@ p {
     align-items: center;
 }
 
+.nav__logo--desk {
+    width: 60px;
+    height: auto;
+}
+
 .nav__ul {
     display: flex;
     gap: 2.5em;
@@ -224,8 +229,8 @@ p {
         grid-area: nav;
     }
 
-    .nav__logo {
-        transform: scale(.8);
+    .nav__logo--mobile {
+        width: calc(.7*65px);
     }
 
     .nav__toggle {
@@ -307,11 +312,15 @@ p {
         margin-top: 1.1rem;
     }
 
+    /* aside */
+
     .aside {
         grid-area: aside;
         margin: 2rem 0;
     }
 
+    /* related-post */
+    
     .related-post {
         grid-area: related-post;
         display: flex;
