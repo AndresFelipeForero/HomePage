@@ -70,5 +70,5 @@ I didn't need this technology in this project, but a want to learn "GSAP".
 ## Author
 
 - LinkedIn - [Andrés Felipe Forero V.](www.linkedin.com/in/andres-felipe-forero-velasquez-239883253)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@AndresFelipeForero](https://www.frontendmentor.io/profile/@AndresFelipeForero)
 
