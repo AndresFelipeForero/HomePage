@@ -33,10 +33,10 @@ p {
     width: 98vw;
     margin: 8vh auto;
     display: grid;
-    row-gap: 3rem;
+    row-gap: 4rem;
     column-gap: 1.8rem;
     grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 1fr max-content 1fr;
+    grid-template-rows: 42px 1fr;
     grid-template-areas: 
     "nav nav nav"
     "main main aside"    
@@ -84,7 +84,7 @@ p {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr max-content;
-    row-gap: 2.8rem;
+    row-gap: 4rem;
     column-gap: 1.8rem;
 }
 
@@ -167,7 +167,6 @@ p {
 .aside p {
     color: var(--grayish-blue);
 }
-
 
 /* related post section */
 .related-post {
