@@ -84,7 +84,7 @@ p {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr max-content;
-    row-gap: 4rem;
+    row-gap: 1.4rem;
     column-gap: 1.8rem;
 }
 
@@ -93,7 +93,6 @@ p {
     background: url("/assets/images/image-web-3-desktop.jpg");
     background-size: cover;
     background-position: center;
-    height: 110%;
 }
 
 .main__h1 {
@@ -101,7 +100,7 @@ p {
     color: var(--very-dark-blue);
     font-size: 3rem;
     font-weight: 800;
-    line-height: 115%;
+    line-height: 110%;
 }
 
 .main__section2 {
